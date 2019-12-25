@@ -9,11 +9,10 @@ url: "http://github.com/Richardurben/richardurben.github.io"              # your
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Richardurben/richardurben.github.io.git" # you code repository
 
-# Sidebar settings
+# Sidebar settings     #侧边栏设置
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "优源，一个有想法的地方！"
-sidebar-avatar: /img/avatar_me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
-
+sidebar-about-description: "一条没有梦想的闲鱼"   #介绍自己
+sidebar-avatar: /img/avatar-GYS.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`，大头贴，绝对地址，名字区分大小写。
 
 
 # SNS settings
@@ -69,7 +68,7 @@ intensedebate_comments: false
 # You can get your appid and appkey from https://leancloud.app
 # more info please open https://valine.js.org
 valine:
-  enable: true
+  enable: false
   appid:  nvYN2RxydarHJ11V8CTyuYkI-MdYXbMMI
   appkey: LHvLGcwcauE5B2JpMxJ3lbtF
   notify: true # mail notifier , https://github.com/xCss/Valine/wiki
@@ -83,11 +82,11 @@ valine:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 1bcc53b44e96a84e03b5                            #生成的clientID
-  clientSecret: a326c0a03b34bb2853429d6dbbe63a0477d798ce    #生成的clientSecret
-  repo: Duter2016.github.io    #仓库名称
-  owner: Duter2016    #github用户名
-  admin: Duter2016
+  clientID: fbeec914d53c03ac7a92                           #生成的clientID
+  clientSecret: 66ccf43ce9bed9b5111b7f4880ef6bd25c1babf0    #生成的clientSecret
+  repo: richardurben1.github.io   #仓库名称
+  owner: Richardurben   #github用户名
+  admin: Richardurben
   id: window.location.pathname   #页面的唯一标识，gitalk 会根据这个标识自动创建的issue的标签,我们使用页面的相对路径作为标识
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
@@ -96,7 +95,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 6b745afaf4056010d2a874cb474bfedf
+#ba_track_id: 6b745afaf4056010d2a874cb474bfedf
 
 # Google Analytics
 # ga_track_id: 'UA-148055118-1'            # Format: UA-xxxxxx-xx
@@ -121,26 +120,23 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "优源辅站",
-        href: "https://duter2016.gitee.io"
+        title: "Hux Blog",
+        href: "http://huangxuan.me"
     },{
-        title: "优源导航",
-        href: "https://duter2016.github.io/daohang/daohang.html"
+        title: "六维空间",
+        href: "http://forum.neubt.com/"
     },{
-        title: "朝阳无妨",
-        href: "http://www.sun0539.com"
+        title: "彭稚辉",
+        href: "http://www.pengzhihui.xyz/"
     },{
-        title: "罗莎之鹰",
-        href: "https://yelonhimx.wang"
+        title: "阿虚同学",
+        href: "http://kyon945.ys168.com/"
     },{
-        title: "图片压缩",
-        href: "https://compressjpeg.com/zh/"
+        title: "小呆导航",
+        href: "https://mail.163.com/js6/main.jsp?sid=wBgyGJrmOrYUzIhPErmmMuvwOdIRVQzm&df=mail163_letter#module=welcome.WelcomeModule%7C%7B%7D"
     },{
-        title: "Valine评论",
-        href: "https://duter2016.avosapps.us/"
-    },{
-        title: "Leancloud",
-        href: "https://console.leancloud.app/"
+        title: "SAO大爷",
+        href: "https://saodaye.com/about#tg"
     }
 ]
 
