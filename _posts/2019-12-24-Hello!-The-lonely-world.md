@@ -5,12 +5,10 @@ subtitle: 'Blog Format'              #这是副标题
 date:   2019-12-24                  #时间
 author: GYS                         #作者
 header-style: text                   #标题格式
-header-img: img/home-bg.jpg          #这篇文章标题背景图片
+header-img: img/lonelyworld-bg.jpg          #这篇文章标题背景图片
 header-mask: "0.1"       # 博文页面上端的背景图片的亮度，数值越大越黑暗
 catalog: true 						# 开启catalog，将在博文侧边展示博文的结构
 istop: false            # 设为true可把文章设置为置顶文章
-music-id: 1359xxxxxx        # 网易云音乐单曲嵌入
-music-idfull: 293xxxxxxx        # 网易云音乐歌单嵌入
 tags:
 - Markdown
 - Blog
@@ -27,7 +25,7 @@ tags:
 
 **粗体**、__粗体__、*斜体*、==高亮==、~~删除线~~、<u>下划线</u>、我是<sup>上标</sup>、 我是<sub>下标</sub>、[超链接](http://www.baidu.com)
 
-  ![图片](/img/home-bg.jpg)
+  ![图片](/img/test-bg.jpg)
 
 
 ```
