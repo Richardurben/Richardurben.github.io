@@ -18,7 +18,7 @@ sidebar-avatar: /img/avatar_me.jpg      # use absolute URL, seeing it's used in 
 
 # SNS settings
 RSS: false
-weibo_username:     u/6038162313/home?wvr=5        #微博id
+weibo_username:     6038162313       #微博id
 zhihu_username:     mei-you-meng-xiang-de-xian-yu-18-13/activities    #知乎id
 github_username:    Richardurben                    #github id
 #twitter_username:  huxpro
