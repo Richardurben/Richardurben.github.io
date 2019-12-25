@@ -1,0 +1,164 @@
+# Site settings
+title: 优源
+SEOTitle: 优源博客 | YouYuan Blog
+header-img: img/post-bg-dutbs.jpg
+email: duter2016#foxmail.com
+description: "优源，一个有想法的地方！"
+keyword: "优源, YouYuan Blog, 优源博客, Duter2016, Duter, Linux"
+url: "https://duter2016.github.io"          # your host, for absolute URL
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/Duter2016/Duter2016.github.io.git" # you code repository
+
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "优源，一个有想法的地方！"
+sidebar-avatar: /img/avatar_me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+
+
+
+# SNS settings
+RSS: true
+# weibo_username:     qiubaiying
+# zhihu_username:     qiubaiying
+github_username:    Duter2016
+# facebook_username:  baiying.qiu.7
+# jianshu_username:   e71990ada2fd
+#twitter_username:   qiubaiying
+
+
+
+
+# Build settings
+# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
+permalink: pretty
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+
+
+
+# Gems
+# from PR#40, to support local preview for Jekyll 3.0
+gems: [jekyll-paginate, jekyll-sitemap]
+# gems: [jekyll-sitemap]
+
+
+
+# Markdown settings
+# replace redcarpet to kramdown,
+# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
+# document: http://jekyllrb.com/docs/configuration/#kramdown
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM                            # use Github Flavored Markdown !important
+
+
+
+# 评论系统
+# Disqus（https://disqus.com/）
+# disqus_username: qiubaiying
+
+
+# intensedebate评论系统开关
+intensedebate_comments: false
+
+
+# Valine评论系统开关
+# Valine.
+# You can get your appid and appkey from https://leancloud.app
+# more info please open https://valine.js.org
+valine:
+  enable: true
+  appid:  nvYN2RxydarHJ11V8CTyuYkI-MdYXbMMI
+  appkey: LHvLGcwcauE5B2JpMxJ3lbtF
+  notify: true # mail notifier , https://github.com/xCss/Valine/wiki
+  verify: true # Verification code
+  placeholder: 游客请在此处留言！留下邮箱，若有回复，您将及时收到提醒邮件！ # comment box placeholder
+  avatar:   # gravatar style
+  guest_info: 昵称,邮件,网址 # custom comment header
+  pageSize: 10 # pagination size
+  # path: window.location.pathname
+
+# Gitalk
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: 1bcc53b44e96a84e03b5                            #生成的clientID
+  clientSecret: a326c0a03b34bb2853429d6dbbe63a0477d798ce    #生成的clientSecret
+  repo: Duter2016.github.io    #仓库名称
+  owner: Duter2016    #github用户名
+  admin: Duter2016
+  id: window.location.pathname   #页面的唯一标识，gitalk 会根据这个标识自动创建的issue的标签,我们使用页面的相对路径作为标识
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+
+
+# 统计
+
+# Analytics settings
+# Baidu Analytics
+ba_track_id: 6b745afaf4056010d2a874cb474bfedf
+
+# Google Analytics
+# ga_track_id: 'UA-148055118-1'            # Format: UA-xxxxxx-xx
+# ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+
+
+
+
+
+# Featured Tags
+featured-tags: true                     # 是否使用首页标签
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
+
+
+
+# Progressive Web Apps
+chrome-tab-theme-color: "#000000"
+service-worker: true
+
+
+
+# Friends
+friends: [
+    {
+        title: "优源辅站",
+        href: "https://duter2016.gitee.io"
+    },{
+        title: "优源导航",
+        href: "https://duter2016.github.io/daohang/daohang.html"
+    },{
+        title: "朝阳无妨",
+        href: "http://www.sun0539.com"
+    },{
+        title: "罗莎之鹰",
+        href: "https://yelonhimx.wang"
+    },{
+        title: "图片压缩",
+        href: "https://compressjpeg.com/zh/"
+    },{
+        title: "Valine评论",
+        href: "https://duter2016.avosapps.us/"
+    },{
+        title: "Leancloud",
+        href: "https://console.leancloud.app/"
+    }
+]
+
+
+
+
+# Jekyll-Search settings 
+# 是否启用jekyll博客搜索插件
+# url: https://github.com/androiddevelop/jekyll-search
+Jekyll-Search: true
+
+
+
+# lightbox 图片预览插件
+lightbox: true
+
+
+
+ # Share社交分享按钮开关
+post_share: true
+
