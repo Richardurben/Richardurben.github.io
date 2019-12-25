@@ -11,7 +11,6 @@ catalog: true 						# 开启catalog，将在博文侧边展示博文的结构
 istop: false            # 设为true可把文章设置为置顶文章
 music-id: 1359xxxxxx        # 网易云音乐单曲嵌入
 music-idfull: 293xxxxxxx        # 网易云音乐歌单嵌入
-iframe:     "http://huangxuan.me/js-module-7day/"      #html幻灯片
 tags:
 - Markdown
 - Blog
