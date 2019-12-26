@@ -13,7 +13,7 @@ music-id:         # 网易云音乐单曲嵌入
 music-idfull:         # 网易云音乐歌单嵌入
 apserver: netease    # 音乐平台netease/tencent/kugou/xiami/baidu
 aptype: playlist    # 音乐类型song/playlist/album/search/artist
-apsongid: 36260142    # 音乐song/playlist/album id
+apsongid: 3136773942   # 音乐song/playlist/album id
 tags:
 - Markdown
 - Blog
@@ -80,4 +80,4 @@ public Class HelloWorld{
 
 我的网易云音乐歌单页面**请点击如下链接跳转**：
 
-[跳到2019年12月歌单原始页面](https://music.163.com/#/my/m/music/playlist?id=36260142)
+[跳到2019年12月歌单原始页面](https://music.163.com/#/my/m/music/playlist?id=3136773942)
