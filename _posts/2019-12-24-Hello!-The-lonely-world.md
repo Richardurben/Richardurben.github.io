@@ -33,9 +33,10 @@ tags:
   ![图片](/img/test-bg.jpg)
 
 
+```math
+e^{i\pi} + 1 = 0
 ```
-$ 理论的数学latex公式$
-```
+
 ## 代码
 ~~~C++
 public Class HelloWorld{
