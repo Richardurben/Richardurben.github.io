@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "MATHEMATICA 学习笔记"    #这是文章正标题
-subtitle: 'software note'              #这是副标题
-date:   2020-02-15                  #时间
+subtitle: 'Software Note'              #这是副标题
+date: 2020-02-15                  #时间
 author: GYS                         #作者
 header-style: text                   #标题格式
 header-img: img/2020-02-15-bg.jpg          #这篇文章标题背景图片
