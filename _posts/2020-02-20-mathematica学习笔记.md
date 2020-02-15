@@ -17,7 +17,7 @@ apsongid: 3136773942   # 音乐song/playlist/album id
 tags:
 - Markdown
 - Mathematica
-- Music
+- Software
 ---
 
 > WOLFRAM *MATHEMATICA* 实用编程指南 原书第二版
