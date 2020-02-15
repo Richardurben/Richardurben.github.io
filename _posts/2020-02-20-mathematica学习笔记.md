@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*MATHEMATICA* 学习笔记"    #这是文章正标题
+title: "MATHEMATICA 学习笔记"    #这是文章正标题
 subtitle: 'software note'              #这是副标题
 date:   2020-02-15                  #时间
 author: GYS                         #作者
