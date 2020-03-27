@@ -57,7 +57,7 @@ public Class HelloWorld{
 ## 无序列表（可嵌套）
 - 每个人的钢琴
 - Everyone piano
- - EOP
+  - EOP
 
 ## 任务列表
 - [x] 看电影
@@ -84,7 +84,7 @@ public Class HelloWorld{
 
 <!-- 以上为点击图片跳转连接操作 -->
 
-[我要跳转到开头](# 跳转到这里)
+[我要跳转到开头](#跳转到这里)
 
 ## License
 
