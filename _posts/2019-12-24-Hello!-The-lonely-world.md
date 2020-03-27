@@ -86,13 +86,6 @@ public Class HelloWorld{
 
 [我要跳转到开头](#跳转到这里)
 
-## License
-
-[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-
-
 ## 修订记录
 
 |      时间      |   内容   | 版本 |
@@ -104,3 +97,10 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 我的网易云音乐歌单页面**请点击如下链接跳转**：
 
 [跳到2019年12月歌单原始页面](https://music.163.com/#/my/m/music/playlist?id=3136773942)
+
+## License
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
