@@ -20,7 +20,9 @@ tags:
 - Music
 ---
 
-以上必须按格式写,取消前者格式使用ctl+']'
+<!--以后博客的表头按照以上写法-->
+
+## 跳转到这里
 
 # 一级标题
 ##  二级标题
@@ -52,9 +54,10 @@ public Class HelloWorld{
 1. 有序列表
 2. 有序列表
   
-## 无序列表
-- 无序列表
-- 无序列表
+## 无序列表（可嵌套）
+- 每个人的钢琴
+- Everyone piano
+ - EOP
 
 ## 任务列表
 - [x] 看电影
@@ -70,6 +73,25 @@ public Class HelloWorld{
 | 杨洋 |  男  | 重庆交通大学 | 3200 |
 | 峰哥 |  男  |   贵州大学   | 5000 |
 | 坑货 |  女  |   北京大学   | 2000 |
+
+## Some triks
+
+\ 为转意字符，如单独显示\*
+
+ [![CoppeliaSim](https://github.com/Richardurben/figure_for_markdown/blob/master/icon/CoppeliaSim.png)](https://coppeliarobotics.com/)
+ 
+<a href="https://zh.wikipedia.org/zh/%E6%88%91%E7%9A%84%E5%A4%A7%E5%8F%94" target="_blank"><img src="https://github.com/Richardurben/figure_for_markdown/blob/master/idol/IU9.jpg" alt="my idol iu" style="height: 51px ;width:217px " ></a>
+
+<!-- 以上为点击图片跳转连接操作 -->
+
+[我要跳转到开头](# 跳转到这里)
+
+## License
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
 
 ## 修订记录
 
