@@ -78,9 +78,9 @@ public Class HelloWorld{
 
 \ 为转意字符，如单独显示\*
 
- [![CoppeliaSim](https://github.com/Richardurben/figure_for_markdown/blob/master/icon/CoppeliaSim.png)](https://coppeliarobotics.com/)
+ [![CoppeliaSim](https://cdn.jsdelivr.net/gh/Richardurben/figure_for_markdown/blob/master/icon/CoppeliaSim.png)](https://coppeliarobotics.com/)
  
-<a href="https://zh.wikipedia.org/zh/%E6%88%91%E7%9A%84%E5%A4%A7%E5%8F%94" target="_blank"><img src="https://github.com/Richardurben/figure_for_markdown/blob/master/idol/IU9.jpg" alt="my idol iu" style="height: 51px ;width:217px " ></a>
+<a href="https://zh.wikipedia.org/zh/%E6%88%91%E7%9A%84%E5%A4%A7%E5%8F%94" target="_blank"><img src="https://cdn.jsdelivr.net/gh/Richardurben/figure_for_markdown/blob/master/idol/IU9.jpg" alt="my idol iu" style="height: 51px ;width:217px " ></a>
 
 <!-- 以上为点击图片跳转连接操作 -->
 
