@@ -158,3 +158,13 @@ lightbox: true
  # Share社交分享按钮开关
 post_share: true
 
+custom_file_path:
+    footer:  _layout/footer.swig
+    
+canvas_nest:
+  enable: true
+  onmobile: true # 是否在移动端显示
+  color: '0,0,255' # 动态背景中线条的 RGB 颜色
+  opacity: 0.5 # 动态背景中线条透明度
+  zIndex: -1 # 动态背景的 z-index 属性值
+  count: 99 # 动态背景中线条数量
