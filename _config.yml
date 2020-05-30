@@ -159,7 +159,7 @@ lightbox: true
 post_share: true
 
 custom_file_path:
-    footer:  _layout/footer.swig
+    footer:  _layouts/footer.swig
     
 canvas_nest:
   enable: true
